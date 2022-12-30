@@ -1,2 +1,4 @@
-package mojodatZende;public class Gorbesanan {
+package mojodatZende;
+
+public final class Gorbesanan extends Pestandaran {
 }

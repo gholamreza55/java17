@@ -1,6 +1,6 @@
-package khodro;
+package mojodatZende;
 
 import mojodatZende.MojodatZende;
 
-public final class Pestandaran extends MojodatZende {
+public sealed class Pestandaran extends MojodatZende permits Gorbesanan{
 }

@@ -1,4 +1,4 @@
-package khodro;
+package mojodatZende;
 
 import mojodatZende.MojodatZende;
 

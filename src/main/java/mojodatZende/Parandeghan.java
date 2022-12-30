@@ -1,6 +1,6 @@
-package khodro;
+package mojodatZende;
 
 import mojodatZende.MojodatZende;
 
-public final class Parandeghan extends MojodatZende {
+public non-sealed class Parandeghan extends MojodatZende {
 }

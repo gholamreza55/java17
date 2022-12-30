@@ -1,2 +1,4 @@
-package mojodatZende;public class MojodatZende {
+package mojodatZende;
+
+public abstract sealed class MojodatZende permits Pestandaran, Parandeghan, Giahan {
 }
